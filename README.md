@@ -26,4 +26,6 @@ To prevent the exception, the [IsReadOnly](https://help.syncfusion.com/cr/wpf/Sy
 </syncfusion:SfDataGrid>
 ```
 
+![AddNewRow for GridCheckBoxColumn](AddNewRowCheckBoxColumn.gif)
+
 Take a moment to peruse the [WPF DataGrid - Editing](https://help.syncfusion.com/wpf/datagrid/editing) documentation, to learn more about editing with examples.
